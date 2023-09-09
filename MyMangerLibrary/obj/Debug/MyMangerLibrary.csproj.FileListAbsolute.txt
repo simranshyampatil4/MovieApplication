@@ -1,0 +1,6 @@
+D:\Csharp\Session17\MyMangerLibrary\obj\Debug\MyMangerLibrary.csproj.AssemblyReference.cache
+D:\Csharp\Session17\MyMangerLibrary\obj\Debug\MyMangerLibrary.csproj.CoreCompileInputs.cache
+D:\Csharp\Session17\MyMangerLibrary\bin\Debug\MyMangerLibrary.dll
+D:\Csharp\Session17\MyMangerLibrary\bin\Debug\MyMangerLibrary.pdb
+D:\Csharp\Session17\MyMangerLibrary\obj\Debug\MyMangerLibrary.dll
+D:\Csharp\Session17\MyMangerLibrary\obj\Debug\MyMangerLibrary.pdb
